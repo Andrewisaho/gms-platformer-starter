@@ -215,6 +215,22 @@
             }
         },
         {
+            "Key": "9f2e84c8-0abb-4a2d-a08d-7c1c98730cbd",
+            "Value": {
+                "id": "37669be8-e33b-437b-aaa5-444fe7ff58ff",
+                "resourcePath": "objects\\object_snake_die\\object_snake_die.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a0ab612b-a18d-4ffc-8bee-d0670f9a00fc",
+            "Value": {
+                "id": "d9fbc761-5d28-4e0c-b5d5-5bf4cf06ea08",
+                "resourcePath": "objects\\object_snake\\object_snake.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "acde4f84-fb90-4cf6-8c5e-e139f3893c5f",
             "Value": {
                 "id": "21b66453-a5e9-4f61-9891-da93d4b49efe",
@@ -332,6 +348,14 @@
                 "id": "ca00fe78-2085-45c5-85d6-f1cf3fc534ed",
                 "resourcePath": "views\\e8b3af58-30ee-469a-8c69-f5ed881b5971.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f66a5179-bac8-4707-b01f-719a954917b7",
+            "Value": {
+                "id": "b6fe1ee4-5227-4e9b-bdfe-c2e95511b5cd",
+                "resourcePath": "objects\\object_player_die\\object_player_die.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
