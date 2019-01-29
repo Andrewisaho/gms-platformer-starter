@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "4b8ab35a-bc1c-4d4d-ab70-8ace883c0c77",
+            "Value": {
+                "id": "a4792d04-140d-4961-83e3-4a0b7d9a049a",
+                "resourcePath": "objects\\game_manager\\game_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4bc688d6-c3cc-4709-9ce0-4354c729979a",
             "Value": {
                 "id": "7a176da1-4abe-4d43-9a8f-db4d27a7b810",
@@ -303,6 +311,14 @@
             }
         },
         {
+            "Key": "d3c0c263-290e-467c-af37-9d40a9f9e007",
+            "Value": {
+                "id": "8e3d6ec0-0b38-4190-980b-0a70215da81b",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d8c32847-1549-4bf0-91de-418bfb9281cd",
             "Value": {
                 "id": "cf2885f6-e4e3-47fa-a835-ee31121e9ea5",
@@ -311,11 +327,27 @@
             }
         },
         {
+            "Key": "dcfad89a-fbb5-4174-bb5a-cc8d87cef209",
+            "Value": {
+                "id": "b8c73ff0-3ad5-4602-a119-202c54ddf64e",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "dcfd7f0b-c24c-4be0-99a1-81bdf077be6a",
             "Value": {
                 "id": "1a206d89-993c-4785-a361-17da9f4b8b31",
                 "resourcePath": "sprites\\sprite_snake_die\\sprite_snake_die.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "de4943e3-ca30-4ec8-a4fc-f54ec2cc95d9",
+            "Value": {
+                "id": "f5cca8b9-157b-498f-a414-fec4d178a5fa",
+                "resourcePath": "objects\\object_death\\object_death.yy",
+                "resourceType": "GMObject"
             }
         },
         {

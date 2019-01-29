@@ -1,8 +1,8 @@
 {
-    "id": "5a02eda1-44f0-4fd1-9b2a-ca09f0c64357",
+    "id": "4b8ab35a-bc1c-4d4d-ab70-8ace883c0c77",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_ladder",
+    "name": "game_manager",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7e3de38f-33ff-4bd2-8d25-334caa94fb84",
-    "visible": false
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
 }
